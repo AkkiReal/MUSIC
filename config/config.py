@@ -9,7 +9,7 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", "16201655"))
 API_HASH = getenv("API_HASH", "440ba807d2cdf696ca498d441e2a6b29")
-BOT_TOKEN = getenv("BOT_TOKEN", "55900224432:AAHs9ov0H3vFjQzskcpz1KUYzbGQ9NsAWFc")
+BOT_TOKEN = getenv("BOT_TOKEN", "5900224432:AAG3RF5cRSMx1yWmJwQeU-ZZBwI7zWUl5o8")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://akkityagi:akkityagi@cluster0.e6x84nx.mongodb.net/?retryWrites=true&w=majority")
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001743583049"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "「ᴀᴋᴋɪ ダ ᴍᴜsɪᴄ」")
